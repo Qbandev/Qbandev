@@ -1,4 +1,4 @@
-### Hi there 👋 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Qbandev.visitor-badge)](https://github.com/Qbandev). How are you doing?
+### Hi there 👋 [![Visitor](https://visitor-badge.glitch.me/badge?page_id=Qbandev.visitor-badge)](https://github.com/Qbandev). How are you doing?
 
 ### :space_invader: &nbsp;About Me
 
