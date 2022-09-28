@@ -19,7 +19,7 @@ I'm Jorge interested in innovation, implementation, and scale of new technology.
 ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-### Code done this week:
+### Done this week:
 
 <!--START_SECTION:waka-->
 
