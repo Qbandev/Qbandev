@@ -37,3 +37,6 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 <a href="https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150" align="left" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
+<a href="https://www.credly.com/badges/a36fa848-f51f-484b-9f37-17cd23d709cc" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png" width="150" height="150" align="left" alt="Kubernetes Fundamentals"/>
+</a>
