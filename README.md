@@ -1,7 +1,9 @@
-### Hi there 👋 [![visitors](https://visitor-badge.glitch.me/badge?page_id=Qbandev.visitor-badge)](https://github.com/Qbandev). How are you doing?
+### Hi there 👋. How are you doing?
 
-### :space_invader: &nbsp;About Me
-
+## About Me 
+<a href="https://www.linkedin.com/in/jorgeacarrasco/" target="_blank">
+  <img align="left" alt="LinkdeIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/240px-Linkedin_icon.svg.png" />
+</a>
 I'm Jorge interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
 ### Technology I'm currently working:
