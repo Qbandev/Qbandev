@@ -1,10 +1,10 @@
-### Hi there 👋 How are you doing?
+### Hi there 👋 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Qbandev.visitor-badge)](https://github.com/Qbandev). How are you doing?
 
 ### :space_invader: &nbsp;About Me
 
-I'm Jorge interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries Agile is in my :dna:.
+I'm Jorge interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
-### Technology I'm using:
+### Technology I'm currently working:
 
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
@@ -19,12 +19,7 @@ I'm Jorge interested in innovation, implementation, and scale of new technology.
 ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-
-
-### Certifications
-<a href="https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150" align="left" alt="AWS Certified Solutions Architect – Associate"/>
-</a>
+### Code done this week:
 
 <!--START_SECTION:waka-->
 
@@ -38,4 +33,7 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Qbandev.visitor-badge)](https://github.com/Qbandev) 
+### Certifications
+<a href="https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150" align="left" alt="AWS Certified Solutions Architect – Associate"/>
+</a>
