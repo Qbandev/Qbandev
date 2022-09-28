@@ -27,6 +27,15 @@ I'm Jorge interested in innovation, implementation, and scale of new technology.
 </a>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 20 September 2022 - To: 27 September 2022
+
+Python       10 hrs 13 mins  █████████████████░░░░░░░░   67.59 %
+Markdown     2 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Qbandev.visitor-badge)](https://github.com/Qbandev) 
