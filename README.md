@@ -1,12 +1,13 @@
 ### Hi there 👋. How are you doing?
 
-## About Me 
+## About Me
+
 <a href="https://www.linkedin.com/in/jorgeacarrasco/" target="_blank">
   <img align="left" alt="LinkdeIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/240px-Linkedin_icon.svg.png" />
 </a>
-I'm Jorge interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
+I'm Jorge a devops architect interested in innovation, implementation, and scale of new technology and projects. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
-### Technology I'm currently working:
+### Technology I'm currently working
 
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
@@ -17,11 +18,12 @@ I'm Jorge interested in innovation, implementation, and scale of new technology.
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-9400d3.svg?&style=flat&logo=terraform&logoColor=white)&nbsp;
 ![Pulumi](https://img.shields.io/badge/Pulumi-121D33.svg?&style=flat&logo=pulumi&logoColor=white)&nbsp;\
+![Infura](https://img.shields.io/badge/Infura-FF7003.svg?&style=flat&logo=infura&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-### Done this week:
+### Done this week
 
 <!--START_SECTION:waka-->
 
@@ -36,6 +38,7 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Certifications
+
 <a href="https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150" align="left" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
