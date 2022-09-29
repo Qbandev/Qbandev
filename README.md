@@ -2,8 +2,6 @@
 
 ## About Me
 
-[![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
-
 I'm Jorge a devops architect interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
 ### Technology I'm currently working
@@ -38,15 +36,18 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 
 ### Certifications
 
-<a href="https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150" align="left" alt="AWS Certified Solutions Architect – Associate"/>
-</a>
-<a href="https://www.credly.com/badges/a36fa848-f51f-484b-9f37-17cd23d709cc" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png" width="150" height="150" align="left" alt="Kubernetes Fundamentals"/>
-</a>
+[![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;
+
+[![Kubernetes](KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;/
 
 ### Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Qbandev&show_icons=true&theme=radical)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qbandev&layout=compact&theme=radical)]
+
+### Contact
+
+[![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
 
 I love connecting with different people so if you want to say **hi**, I'll be happy to meet you more! :wink:
