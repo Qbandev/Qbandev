@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/jorgeacarrasco/" target="_blank">
   <img align="left" alt="LinkdeIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/240px-Linkedin_icon.svg.png" />
 </a>
-I'm Jorge a devops architect interested in innovation, implementation, and scale of new technology and projects. I have been working with the :cloud: in different industries, agile is in my :dna:.
+I'm Jorge a devops architect interested in innovation, implementation and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
 ### Technology I'm currently working
 
