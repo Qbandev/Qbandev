@@ -38,13 +38,13 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 
 [![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;
 
-[![Kubernetes](KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;/
+[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;/
 
 ### Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Qbandev&show_icons=true&theme=radical)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=Qbandev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qbandev&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qbandev&layout=compact&theme=radical)
 
 ### Contact
 
