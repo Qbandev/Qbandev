@@ -36,20 +36,19 @@ Other        47 mins         █▒░░░░░░░░░░░░░░░
 
 ### Certifications
 
-[![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;
-
-[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;\
+[![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
+[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)&nbsp;
 
 ### Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Qbandev&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qbandev&layout=compact&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/Qbandev)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Qbandev&show_icons=true&theme=radical)
 
 ### Contact
 
 [![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
 
 I love connecting with different people so if you want to say **hi**, I'll be happy to meet you more! :wink:
+
+![Profile views](https://gpvc.arturio.dev/Qbandev)
