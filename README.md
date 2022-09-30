@@ -25,11 +25,13 @@ I'm Jorge a devops architect interested in innovation, implementation, and scale
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-Python       10 hrs 13 mins  █████████████████░░░░░░░░   67.59 %
-Markdown     2 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Python       7 hrs 20 mins   ███████████████░░░░░░░░░░   60.62 %
+Markdown     2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+YAML         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+TypeScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
