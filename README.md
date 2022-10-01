@@ -45,8 +45,6 @@ Other        19 mins         █░░░░░░░░░░░░░░░░
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qbandev&layout=compact&theme=radical)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Qbandev&show_icons=true&theme=radical)
-
 ### Contact
 
 [![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
