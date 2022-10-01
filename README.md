@@ -41,10 +41,6 @@ Other        19 mins         █░░░░░░░░░░░░░░░░
 [![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
 [![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/a36fa848-f51f-484b-9f37-17cd23d709cc)](https://www.credly.com/badges/a36fa848-f51f-484b-9f37-17cd23d709cc)&nbsp;
 
-### Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qbandev&layout=compact&theme=radical)
-
 ### Contact
 
 [![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
