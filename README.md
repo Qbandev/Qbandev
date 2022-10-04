@@ -25,7 +25,7 @@ I'm Jorge a SRE architect interested in innovation, implementation, and scale of
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 01 October 2022
+From: 25 September 2022 - To: 02 October 2022
 
 Markdown     1 hr 47 mins    ████████▓░░░░░░░░░░░░░░░░   34.00 %
 YAML         1 hr 39 mins    ███████▓░░░░░░░░░░░░░░░░░   31.31 %
