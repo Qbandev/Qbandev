@@ -20,7 +20,7 @@ I'm Jorge a SRE architect interested in innovation, implementation, and scale of
 [![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white&link=https://en.wikipedia.org/wiki/Blockchain)](https://en.wikipedia.org/wiki/Blockchain)&nbsp;
 [![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=whitelink&=https://ethereum.org/en/)](https://ethereum.org/en/)&nbsp;
 
-### Done this week
+### Code done this week
 
 <!--START_SECTION:waka-->
 
