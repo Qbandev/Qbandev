@@ -45,6 +45,6 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 
 [![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
 
-I love connecting with different people so if you want to say **hi**, I'll be happy to meet you more! :wink:
+I love connecting with different people so if you want to say **hi**, I'll be happy to meet you! :wink:
 
 ![Profile views](https://gpvc.arturio.dev/Qbandev)
