@@ -25,7 +25,7 @@ I'm Jorge a SRE architect interested in innovation, implementation, and scale of
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 12 November 2022
+From: 06 November 2022 - To: 13 November 2022
 
 Python       4 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.29 %
 TypeScript   3 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
