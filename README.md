@@ -25,10 +25,11 @@ I'm Jorge a SRE architect interested in innovation, implementation, and scale of
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2023 - To: 28 February 2023
+From: 22 February 2023 - To: 01 March 2023
 
-Terraform    4 hrs 11 mins   ████████████████████▒░░░░   81.21 %
-Other        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Terraform   4 hrs 51 mins   █████████████████████▒░░░   85.75 %
+YAML        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
