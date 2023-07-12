@@ -47,4 +47,3 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 
 I love connecting with different people so if you want to say **hi**, I'll be happy to meet you! :wink:
 
-![Profile views](https://gpvc.arturio.dev/Qbandev)
