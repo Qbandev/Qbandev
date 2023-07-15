@@ -25,12 +25,13 @@ I'm Jorge a SRE architect interested in innovation, implementation, and scale of
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2023 - To: 12 July 2023
+From: 06 July 2023 - To: 13 July 2023
 
-YAML         57 mins         ██████████████▓░░░░░░░░░░   58.49 %
-TypeScript   18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Other        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Markdown     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+YAML         57 mins         ████████████▒░░░░░░░░░░░░   49.59 %
+TypeScript   37 mins         ████████░░░░░░░░░░░░░░░░░   32.55 %
+Other        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Markdown     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Terraform    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
