@@ -37,7 +37,7 @@ Terraform    2 mins          ▓░░░░░░░░░░░░░░░░
 ### Certifications
 
 [![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
-[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/a36fa848-f51f-484b-9f37-17cd23d709cc)](https://www.credly.com/badges/a36fa848-f51f-484b-9f37-17cd23d709cc)
+[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/ce2132c3-0fea-4944-8262-5e0a690c6884)](https://www.credly.com/badges/ce2132c3-0fea-4944-8262-5e0a690c6884)
 [![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/Terraform-9400d3.svg?&style=flat&logo=terraform&logoColor=white&link=https://www.credly.com/badges/bd237211-163b-470b-a72f-ab8ace7d40fb/)](https://www.credly.com/badges/bd237211-163b-470b-a72f-ab8ace7d40fb)&nbsp;&nbsp;
 
 ### Contact
