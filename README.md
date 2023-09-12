@@ -38,8 +38,8 @@ Ezhil        0 secs          ░░░░░░░░░░░░░░░░░
 
 ### Certifications
 
-[![AWS Certified Solution Architect](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
-[![Kubernetes and Cloud Native Associate](https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associated-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/5c8b131c-ddbe-4e9b-be9d-c64f2a94f150)](https://www.credly.com/badges/5c8b131c-ddbe-4e9b-be9d-c64f2a94f150) 
+[![AWS Certified Solution Architect Associate](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect%20Associate-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
+[![Kubernetes and Cloud Native Associate](https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associate-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/5c8b131c-ddbe-4e9b-be9d-c64f2a94f150)](https://www.credly.com/badges/5c8b131c-ddbe-4e9b-be9d-c64f2a94f150) 
 [![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified%20Terraform%20Associate-9400d3.svg?&style=flat&logo=terraform&logoColor=white&link=https://www.credly.com/badges/bd237211-163b-470b-a72f-ab8ace7d40fb/)](https://www.credly.com/badges/bd237211-163b-470b-a72f-ab8ace7d40fb)&nbsp;&nbsp;
 
 ### Contact
