@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Jorge a SRE architect interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
+I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
 ### Technology I'm currently working
 
