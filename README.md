@@ -6,19 +6,19 @@ I'm Jorge a SRE architect interested in innovation, implementation, and scale of
 
 ### Technology I'm currently working
 
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;
 [![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)&nbsp;
-[![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white&link=https://github.com/features/actions)](https://github.com/features/actions)&nbsp;\
-[![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black&link=https://www.linuxfoundation.org/)](https://www.linuxfoundation.org/)&nbsp;
-[![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)&nbsp;
-[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)&nbsp;\
-[![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://aws.amazon.com/)](https://aws.amazon.com/)&nbsp;
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)&nbsp;\
 [![Terraform](https://img.shields.io/badge/Terraform-9400d3.svg?&style=flat&logo=terraform&logoColor=white&link=https://www.terraform.io/)](https://www.terraform.io/)&nbsp;
-[![Pulumi](https://img.shields.io/badge/Pulumi-121D33.svg?&style=flat&logo=pulumi&logoColor=white&link=https://www.pulumi.com/)](https://www.pulumi.com/)&nbsp;\
-[![Infura](https://img.shields.io/badge/Infura-FF7003.svg?&style=flat&logo=infura&logoColor=black&link=https://infura.io/)](https://infura.io/)&nbsp;
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)&nbsp;
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)&nbsp;
-[![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white&link=https://en.wikipedia.org/wiki/Blockchain)](https://en.wikipedia.org/wiki/Blockchain)&nbsp;
-[![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=whitelink&=https://ethereum.org/en/)](https://ethereum.org/en/)&nbsp;
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)&nbsp;\
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/)&nbsp;
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+
 
 ### Code done this week
 
