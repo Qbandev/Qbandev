@@ -39,10 +39,9 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-YAML     25 hrs 56 mins  ████████████████████████▒   97.36 %
-Other    41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+YAML     25 hrs 8 mins   █████████████████████████   99.99 %
 Smarty   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
