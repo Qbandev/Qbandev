@@ -39,13 +39,13 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Terraform   2 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.99 %
-YAML        1 hr 39 mins    ████████░░░░░░░░░░░░░░░░░   31.74 %
-JSON        1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-Other       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-HCL         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Terraform   2 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   45.55 %
+YAML        1 hr 21 mins    ███████░░░░░░░░░░░░░░░░░░   27.68 %
+JSON        1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+Other       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+HCL         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
