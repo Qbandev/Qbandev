@@ -39,9 +39,12 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-No activity tracked
+YAML        6 hrs 48 mins   █████████████████████░░░░   84.42 %
+Terraform   1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
