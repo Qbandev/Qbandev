@@ -39,9 +39,13 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-No activity tracked
+Python       2 hrs 57 mins   █████████████░░░░░░░░░░░░   51.56 %
+Markdown     1 hr 56 mins    ████████▓░░░░░░░░░░░░░░░░   34.02 %
+YAML         33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TOML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
