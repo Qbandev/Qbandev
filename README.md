@@ -39,7 +39,7 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
 Python       10 hrs 50 mins  ████████████████▒░░░░░░░░   65.67 %
 Markdown     2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
