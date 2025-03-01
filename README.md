@@ -39,12 +39,13 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2025 - To: 26 February 2025
+From: 21 February 2025 - To: 28 February 2025
 
-YAML        12 hrs 29 mins  ██████████████▒░░░░░░░░░░   57.65 %
-Markdown    4 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-Terraform   4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Other       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Terraform   5 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.35 %
+Markdown    5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+YAML        4 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+Other       1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Bash        49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
