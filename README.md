@@ -1,6 +1,6 @@
 ## About Me [![Linkedin Jorge Carrasco](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgeacarrasco/)](https://www.linkedin.com/in/jorgeacarrasco/)
 
-I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
+I'm Jorge a Platform SRE engineer interested in innovation, implementation, and scale of new technology. I have been working with the :cloud: in different industries, agile is in my :dna:.
 
 ## Skills and Expertise
 
