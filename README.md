@@ -29,7 +29,7 @@ I'm Jorge a SRE and DevOps interested in innovation, implementation, and scale o
 
 ## Certifications
 
-[![AWS Certified Solution Architect Associate](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect%20Associate-23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
+[![AWS Certified Solution Architect Associate](https://img.shields.io/badge/AWS%20Certified%20Solution%20Architect%20Associate-F38020.svg?&style=flat&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)](https://www.credly.com/badges/903ab78c-1030-459e-a2d3-61592471d050)
 [![Kubernetes and Cloud Native Associate](https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associate-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/5c8b131c-ddbe-4e9b-be9d-c64f2a94f150)](https://www.credly.com/badges/5c8b131c-ddbe-4e9b-be9d-c64f2a94f150) 
 [![Certified Argo Project Associate](https://img.shields.io/badge/Certified%20Argo%20Project%20Associate-3CB371.svg?&style=flat&logo=argo&logoColor=white&link=https://www.credly.com/badges/d94db3a3-05be-456c-820e-75bf359f1e85)](https://www.credly.com/badges/d94db3a3-05be-456c-820e-75bf359f1e85)&nbsp;&nbsp;
 
