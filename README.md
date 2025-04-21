@@ -39,7 +39,7 @@ I'm Jorge a Platform SRE engineer interested in innovation, implementation, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
 Terraform   3 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.78 %
 YAML        3 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
