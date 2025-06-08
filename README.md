@@ -39,13 +39,13 @@ I'm Jorge a Platform SRE engineer interested in innovation, implementation, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2025 - To: 05 June 2025
+From: 30 May 2025 - To: 06 June 2025
 
-YAML         20 hrs 31 mins  █████████████████████░░░░   84.27 %
-JSON         2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+YAML         16 hrs 4 mins   ███████████████████▓░░░░░   78.76 %
+JSON         3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+Markdown     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
