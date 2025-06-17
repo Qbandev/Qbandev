@@ -39,7 +39,7 @@ I'm Jorge a Platform SRE engineer interested in innovation, implementation, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
 YAML         9 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.01 %
 JSON         8 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
