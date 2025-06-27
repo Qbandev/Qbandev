@@ -39,12 +39,12 @@ I'm Jorge a Platform SRE engineer interested in innovation, implementation, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Terraform   10 hrs 35 mins  ██████████████████░░░░░░░   72.14 %
-HCL         3 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-YAML        55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-JSON        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Terraform   10 hrs 35 mins  ███████████████████▒░░░░░   76.87 %
+HCL         3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+YAML        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
