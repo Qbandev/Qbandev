@@ -39,10 +39,9 @@ I'm Jorge a Platform SRE engineer interested in innovation, implementation, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 20 June 2025 - To: 27 June 2025
 
-Terraform   7 hrs 5 mins    ███████████████████████▓░   94.61 %
-HCL         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
