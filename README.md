@@ -39,7 +39,7 @@ I'm Jorge a Platform SRE engineer interested in innovation, implementation, and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
 JavaScript   3 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.67 %
 JSON         2 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
